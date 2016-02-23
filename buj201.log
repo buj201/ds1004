@@ -1,0 +1,20 @@
+buj201
+*   131142f Final commit to complete task1 graph
+|\  
+| *   01fd114 Merged Branch4 and Branch3
+| |\  
+| | * dcf9d0d 5th commit (first on Branch3)
+* | |   f562509 Merged Branch5 and Branch2'
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 26cf7f4 4th commit (first on Branch2)
+* | |   9e57bf7 Merged master and Branch1 after resolving conflict
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * fb445ab 2nd commit (first on Branch1)
+* | f45b719 3rd commit (second on master)
+|/  
+* 330a754 Initial commit
